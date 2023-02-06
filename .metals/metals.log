@@ -1,0 +1,76 @@
+2023.02.06 22:05:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/scala-lab-muffinkate/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2023.02.06 22:05:24 INFO  logging to file /workspaces/scala-lab-muffinkate/.metals/metals.log
+2023.02.06 22:05:24 INFO  Started: Metals version 0.11.10 in workspace '/workspaces/scala-lab-muffinkate' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/sbtuser/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.06 22:05:30 INFO  time: initialize in 5.84s
+2023.02.06 22:05:36 WARN  Build server is not auto-connectable.
+2023.02.06 22:05:36 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:05:45 INFO  no build target found for /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.06 22:05:49 INFO  time: code lens generation in 11s
+2023.02.06 22:09:26 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:37 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:41 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:43 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:48 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:57 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:11:32 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/test/scala/lab/00_FactorialSpec.scala
+2023.02.06 22:11:48 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:11:52 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/test/scala/lab/02_ExponentTest.scala
+2023.02.06 22:11:53 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/test/scala/lab/01_FibonacciTest.scala
+2023.02.06 22:12:38 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:12:41 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:12:54 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:12:58 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:02 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:04 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:32 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:35 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+Feb 06, 2023 10:13:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 197
+2023.02.06 22:13:39 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:42 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:57 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+Feb 06, 2023 10:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 293
+2023.02.06 22:14:14 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:14:18 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:14:20 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:14:34 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:14:40 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/test/scala/lab/02_ExponentTest.scala
+2023.02.06 22:14:48 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/test/scala/lab/01_FibonacciTest.scala
+2023.02.06 22:14:52 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:14:56 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:00 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:03 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:05 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:10 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:11 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:15 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:16 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:42 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:17:09 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:17:11 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:17:15 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:17:23 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:17:43 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:18:08 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:31 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:34 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:36 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:20:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 654
+2023.02.06 22:20:56 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:59 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:21:56 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:22:16 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/test/scala/lab/03_PalindromeTest.scala
+2023.02.06 22:25:08 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:25:11 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:25:25 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:27:32 WARN  no build target for: /workspaces/scala-lab-muffinkate/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:28:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
